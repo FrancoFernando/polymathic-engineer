@@ -1,0 +1,49 @@
+- title: System design interview prep
+  description: The building blocks and the method, for when the interview is a few weeks away.
+  issues:
+  - requirements-the-foundation-of-good
+  - back-of-the-envelope
+  - from-a-single-server-to-global-scale
+  - the-definitive-guide-to-load-balancers
+  - caching-in-distributed-systems-part
+  - database-categories
+  - a-comprehensive-guide-to-database
+  - consistent-hashing
+  - designing-a-url-shortener
+  - how-not-to-fail-a-system-design-interview
+- title: Distributed systems from the ground up
+  description: Why distributed systems behave the way they do, from the first failure to consensus.
+  issues:
+  - the-challenges-of-distributed-systems
+  - the-fallacies-of-distributed-systems
+  - clocks
+  - replication
+  - consistency
+  - cap
+  - leader-election
+  - the-raft-consensus-algorithm
+  - idempotency
+  - why-distributed-systems-fail-and
+- title: Coding interview patterns
+  description: The techniques that solve most coding interview problems, one pattern at a time.
+  issues:
+  - time-complexity
+  - mastering-the-two-pointers-technique
+  - sliding-window
+  - hashing-in-coding-interviews
+  - mastering-linked-lists-a-complete
+  - mastering-recursion-the-foundations
+  - backtracking
+  - fundamental-graph-algorithms-part
+  - heap-use-cases-every-algorist-should
+  - how-not-to-fail-a-coding-interview
+- title: Machine learning from scratch
+  description: The first models and how to judge them, with code you can run for most issues.
+  issues:
+  - a-practical-guide-to-types-of-machine
+  - linear-regression
+  - how-machine-learning-and-optimization
+  - the-training-trap-underfitting-overfitting
+  - the-perceptron
+  - logistic-regression
+  - your-99-accurate-model-never-caught

@@ -3,11 +3,66 @@
 A newsletter by Franco Fernando about system design, distributed systems, algorithms, and software engineering.
 Published issues and companion code. [Subscribe to the newsletter](https://newsletter.francofernando.com/subscribe).
 
-## Start Here
+## Reading Paths
 
-<!-- START HERE: BEGIN -->
-<!-- Add your selected issue links here. -->
-<!-- START HERE: END -->
+Issues to read in order when you want to learn one topic.
+
+### System design interview prep
+
+The building blocks and the method, for when the interview is a few weeks away.
+
+1. [Requirements: the foundation of good system design.](https://newsletter.francofernando.com/p/requirements-the-foundation-of-good)
+2. [Back of the envelope](https://newsletter.francofernando.com/p/back-of-the-envelope)
+3. [From a Single Server to Global Scale](https://newsletter.francofernando.com/p/from-a-single-server-to-global-scale)
+4. [The Definitive Guide to Load Balancers](https://newsletter.francofernando.com/p/the-definitive-guide-to-load-balancers)
+5. [Caching in Distributed Systems - Part I](https://newsletter.francofernando.com/p/caching-in-distributed-systems-part)
+6. [Database categories](https://newsletter.francofernando.com/p/database-categories)
+7. [A Comprehensive Guide to Database Sharding](https://newsletter.francofernando.com/p/a-comprehensive-guide-to-database)
+8. [Consistent hashing](https://newsletter.francofernando.com/p/consistent-hashing)
+9. [Designing a URL Shortener](https://newsletter.francofernando.com/p/designing-a-url-shortener)
+10. [How (not to) fail a system design interview](https://newsletter.francofernando.com/p/how-not-to-fail-a-system-design-interview)
+
+### Distributed systems from the ground up
+
+Why distributed systems behave the way they do, from the first failure to consensus.
+
+1. [The Challenges of Distributed Systems](https://newsletter.francofernando.com/p/the-challenges-of-distributed-systems)
+2. [The fallacies of distributed systems](https://newsletter.francofernando.com/p/the-fallacies-of-distributed-systems)
+3. [Clocks](https://newsletter.francofernando.com/p/clocks)
+4. [A gentle introduction to database replication.](https://newsletter.francofernando.com/p/replication)
+5. [Consistency](https://newsletter.francofernando.com/p/consistency)
+6. [CAP](https://newsletter.francofernando.com/p/cap)
+7. [Leader election](https://newsletter.francofernando.com/p/leader-election)
+8. [The RAFT Consensus Algorithm](https://newsletter.francofernando.com/p/the-raft-consensus-algorithm)
+9. [Idempotency](https://newsletter.francofernando.com/p/idempotency)
+10. [Why Distributed Systems Fail and How to Limit the Damage](https://newsletter.francofernando.com/p/why-distributed-systems-fail-and)
+
+### Coding interview patterns
+
+The techniques that solve most coding interview problems, one pattern at a time.
+
+1. [Time complexity](https://newsletter.francofernando.com/p/time-complexity)
+2. [Mastering the Two-Pointers Technique](https://newsletter.francofernando.com/p/mastering-the-two-pointers-technique)
+3. [Sliding Window](https://newsletter.francofernando.com/p/sliding-window)
+4. [Hashing in Coding Interviews](https://newsletter.francofernando.com/p/hashing-in-coding-interviews)
+5. [Mastering Linked Lists: A Complete Guide](https://newsletter.francofernando.com/p/mastering-linked-lists-a-complete)
+6. [Mastering Recursion: the Foundations](https://newsletter.francofernando.com/p/mastering-recursion-the-foundations)
+7. [Backtracking](https://newsletter.francofernando.com/p/backtracking)
+8. [Fundamental Graph Algorithms - Part I: BFS](https://newsletter.francofernando.com/p/fundamental-graph-algorithms-part)
+9. [Heap Use Cases Every Algorist Should Know](https://newsletter.francofernando.com/p/heap-use-cases-every-algorist-should)
+10. [How (not to) fail a coding interview](https://newsletter.francofernando.com/p/how-not-to-fail-a-coding-interview)
+
+### Machine learning from scratch
+
+The first models and how to judge them, with code you can run for most issues.
+
+1. [A Practical Guide to Types of Machine Learning](https://newsletter.francofernando.com/p/a-practical-guide-to-types-of-machine)
+2. [Linear Regression](https://newsletter.francofernando.com/p/linear-regression) ([code](code/linear-regression/))
+3. [How machine learning and optimization work well together](https://newsletter.francofernando.com/p/how-machine-learning-and-optimization)
+4. [The Training Trap: Underfitting, Overfitting, and How to Escape Them](https://newsletter.francofernando.com/p/the-training-trap-underfitting-overfitting)
+5. [The Perceptron](https://newsletter.francofernando.com/p/the-perceptron) ([code](code/perceptron/))
+6. [Logistic Regression](https://newsletter.francofernando.com/p/logistic-regression) ([code](code/logistic-regression/))
+7. [Your 99% accurate model never caught a single fraud](https://newsletter.francofernando.com/p/your-99-accurate-model-never-caught) ([code](code/classification-metrics/))
 
 ## Issues
 
@@ -249,6 +304,7 @@ Published issues and companion code. [Subscribe to the newsletter](https://newsl
 
 Edit `issues.yml` to add or update an issue. Keep entries newest first within each year; list all applicable topics.
 The optional `code` value is a folder name under `code/`. Keep these folder names stable after publication.
+Edit `paths.yml` to add or reorder a reading path. Each entry under `issues` is the last part of the issue URL.
 
 ```sh
 python -m pip install -r requirements.txt
@@ -256,5 +312,5 @@ python scripts/generate.py
 python -m unittest discover -s scripts -p "test_*.py"
 ```
 
-The generator preserves the marked Start Here block and hand-written code READMEs.
+The generator preserves hand-written code READMEs.
 Run commands in a code folder unless its README says otherwise. Existing samples with separate instructions include `RUNNING.md` or `commands.md`.

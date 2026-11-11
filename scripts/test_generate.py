@@ -36,12 +36,6 @@ class GenerateTests(unittest.TestCase):
         self.assertIn("Bloom \\[filters\\]", readme)
         self.assertEqual(readme.count("code/bloom-filter/"), 2)
 
-    def test_start_here_is_preserved(self):
-        preserved = f"{generate.START_BEGIN}\n- My selected issue\n\n{generate.START_END}"
-        (self.root / "README.md").write_text("# Old\n" + preserved + "\n", encoding="utf-8")
-        generate.generate(self.root)
-        self.assertIn(preserved, (self.root / "README.md").read_text(encoding="utf-8"))
-
     def test_handwritten_readme_only_gets_issue_link(self):
         path = self.root / "code" / "bloom-filter" / "README.md"
         original = "# Hand-written\n\nKeep this setup command.\n"
@@ -66,16 +60,6 @@ class GenerateTests(unittest.TestCase):
         generate.generate(self.root)
         self.assertIn("# New title", (self.root / "code" / "bloom-filter" / "README.md").read_text(encoding="utf-8"))
 
-    def test_bad_markers_fail_without_writing(self):
-        for text in (generate.START_BEGIN, generate.START_END + generate.START_BEGIN,
-                     generate.START_BEGIN + generate.START_BEGIN + generate.START_END):
-            with self.subTest(text=text):
-                (self.root / "README.md").write_text(text, encoding="utf-8")
-                before = self.snapshot()
-                with self.assertRaises(ValueError):
-                    generate.generate(self.root)
-                self.assertEqual(before, self.snapshot())
-
     def test_bad_metadata_fails_without_writing(self):
         cases = ({"topics": []}, {"topics": ["Unknown"]}, {"topics": ["More", "System Design"]},
                  {"code": "../escape"}, {"code": "missing"}, {"year": True},
@@ -99,6 +83,33 @@ class GenerateTests(unittest.TestCase):
         self.write_issues()
         with self.assertRaisesRegex(ValueError, "Duplicate issue URL"):
             generate.generate(self.root)
+
+    def write_paths(self, issues):
+        paths = [{"title": "Start", "description": "Read these in order.", "issues": issues}]
+        (self.root / "paths.yml").write_text(yaml.safe_dump(paths), encoding="utf-8")
+
+    def test_paths_keep_their_own_order(self):
+        self.issues.append({"title": "Earlier", "url": generate.NEWSLETTER + "/p/earlier",
+                            "year": 2025, "topics": ["System Design"]})
+        self.write_issues()
+        self.write_paths(["earlier", "bloom-filters-explained"])
+        generate.generate(self.root)
+        first = self.snapshot()
+        generate.generate(self.root)
+        self.assertEqual(first, self.snapshot())
+        readme = (self.root / "README.md").read_text(encoding="utf-8")
+        section = readme[readme.index("## Reading Paths"):readme.index("## Issues")]
+        self.assertIn(f"1. [Earlier]({self.issues[1]['url']})", section)
+        self.assertIn(f"2. [Bloom \\[filters\\]]({self.issues[0]['url']}) ([code](code/bloom-filter/))", section)
+
+    def test_bad_paths_fail_without_writing(self):
+        for issues in ([], ["missing"], ["bloom-filters-explained", "bloom-filters-explained"]):
+            with self.subTest(issues=issues):
+                self.write_paths(issues)
+                before = self.snapshot()
+                with self.assertRaises(ValueError):
+                    generate.generate(self.root)
+                self.assertEqual(before, self.snapshot())
 
     def test_order_is_preserved(self):
         self.issues.append({"title": "Earlier", "url": generate.NEWSLETTER + "/p/earlier",
