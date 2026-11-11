@@ -1,0 +1,1033 @@
+- title: Your 99% accurate model never caught a single fraud
+  url: https://newsletter.francofernando.com/p/your-99-accurate-model-never-caught
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+  code: classification-metrics
+- title: The complexity you remove from your library doesn't disappear. It moves.
+  url: https://newsletter.francofernando.com/p/the-complexity-you-remove-from-your
+  year: 2026
+  topics:
+  - Software Engineering
+- title: A tenth of a microsecond became a third of a second
+  url: https://newsletter.francofernando.com/p/a-tenth-of-a-microsecond-became-a
+  year: 2026
+  topics:
+  - Low-Level
+- title: Your computer can't store 0.2
+  url: https://newsletter.francofernando.com/p/your-computer-cant-store-02
+  year: 2026
+  topics:
+  - Low-Level
+- title: No single data structure can build a fast cache
+  url: https://newsletter.francofernando.com/p/no-single-data-structure-can-build
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+  - System Design
+  code: lru-lfu-cache
+- title: Your services talk to each other like strangers on the internet
+  url: https://newsletter.francofernando.com/p/your-services-talk-to-each-other
+  year: 2026
+  topics:
+  - System Design
+  - Distributed Systems
+- title: The most dangerous change to a published API is a rename
+  url: https://newsletter.francofernando.com/p/the-most-dangerous-change-to-a-published
+  year: 2026
+  topics:
+  - Software Engineering
+  - System Design
+- title: You can refactor everything except your API
+  url: https://newsletter.francofernando.com/p/you-can-refactor-everything-except
+  year: 2026
+  topics:
+  - Software Engineering
+  - System Design
+- title: 'Latency: What It Is and What Limits It (Part II)'
+  url: https://newsletter.francofernando.com/p/latency-what-it-is-and-what-limits
+  year: 2026
+  topics:
+  - System Design
+  - Low-Level
+  code: latency-measurement
+- title: Latency Is Not a Single Number
+  url: https://newsletter.francofernando.com/p/latency-is-not-a-single-number
+  year: 2026
+  topics:
+  - System Design
+- title: Exception Handling in Practice
+  url: https://newsletter.francofernando.com/p/exception-handling-in-practice
+  year: 2026
+  topics:
+  - Software Engineering
+- title: Logistic Regression
+  url: https://newsletter.francofernando.com/p/logistic-regression
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+  code: logistic-regression
+- title: 'Disjoint Sets: From Linear to Almost Constant Time'
+  url: https://newsletter.francofernando.com/p/disjoint-sets-from-linear-to-almost
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: 'IP Addressing, Part III: Inside the IP Packet'
+  url: https://newsletter.francofernando.com/p/ip-addressing-part-iii-inside-the
+  year: 2026
+  topics:
+  - Distributed Systems
+- title: 'IP Addressing, Part II: Scaling IPv4 Across the Internet'
+  url: https://newsletter.francofernando.com/p/ip-addressing-part-ii-scaling-ipv4
+  year: 2026
+  topics:
+  - Distributed Systems
+- title: The Anatomy of an IPv4 Address (Part I)
+  url: https://newsletter.francofernando.com/p/the-anatomy-of-an-ipv4-address
+  year: 2026
+  topics:
+  - Distributed Systems
+- title: The Perceptron
+  url: https://newsletter.francofernando.com/p/the-perceptron
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+  code: perceptron
+- title: How the Operating System Runs Many Tasks on One CPU
+  url: https://newsletter.francofernando.com/p/how-the-operating-system-runs-many
+  year: 2026
+  topics:
+  - Low-Level
+- title: When to repeat yourself
+  url: https://newsletter.francofernando.com/p/when-to-repeat-yourself
+  year: 2026
+  topics:
+  - Software Engineering
+- title: 'The Training Trap: Underfitting, Overfitting, and How to Escape Them'
+  url: https://newsletter.francofernando.com/p/the-training-trap-underfitting-overfitting
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+- title: Service Mesh vs API Gateway (Part III)
+  url: https://newsletter.francofernando.com/p/service-mesh-vs-api-gateway-part
+  year: 2026
+  topics:
+  - System Design
+  - Distributed Systems
+- title: 'The Depth-First Search Pattern: Exploring Trees and Graphs'
+  url: https://newsletter.francofernando.com/p/the-depth-first-search-pattern-exploring
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: What a Service Mesh Gives You (Part II)
+  url: https://newsletter.francofernando.com/p/what-a-service-mesh-gives-you-part
+  year: 2026
+  topics:
+  - System Design
+  - Distributed Systems
+- title: 'Service Mesh: Why and How It Works (Part I)'
+  url: https://newsletter.francofernando.com/p/service-mesh-why-and-how-it-works
+  year: 2026
+  topics:
+  - System Design
+  - Distributed Systems
+- title: 'The Divide and Conquer: Breaking Problems into Smaller Pieces'
+  url: https://newsletter.francofernando.com/p/the-divide-and-conquer-breaking-problems
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: Bloom Filters Explained
+  url: https://newsletter.francofernando.com/p/bloom-filters-explained
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+  code: bloom-filter
+- title: 'The Ordering Pattern: Generating All Permutations'
+  url: https://newsletter.francofernando.com/p/the-ordering-pattern-generating-all
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: How to Stop Failures from Spreading Between Services
+  url: https://newsletter.francofernando.com/p/how-to-stop-failures-from-spreading
+  year: 2026
+  topics:
+  - Distributed Systems
+- title: How machine learning and optimization work well together
+  url: https://newsletter.francofernando.com/p/how-machine-learning-and-optimization
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+- title: Linear Regression
+  url: https://newsletter.francofernando.com/p/linear-regression
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+  code: linear-regression
+- title: Finding All Combinations with the The Selection Pattern
+  url: https://newsletter.francofernando.com/p/finding-all-combinations-with-the
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: 'The Dictionary Problem: Fast Lookups in Large Collections'
+  url: https://newsletter.francofernando.com/p/the-dictionary-problem-fast-lookups
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: Why Distributed Systems Fail and How to Limit the Damage
+  url: https://newsletter.francofernando.com/p/why-distributed-systems-fail-and
+  year: 2026
+  topics:
+  - Distributed Systems
+- title: What Really Makes a Succesful Software Engineer
+  url: https://newsletter.francofernando.com/p/what-really-makes-a-succesful-software
+  year: 2026
+  topics:
+  - Software Engineering
+- title: 'Recursion in Practice: Iteration and Subproblems'
+  url: https://newsletter.francofernando.com/p/recursion-in-practice-iteration-and
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: 'Mastering Recursion: the Foundations'
+  url: https://newsletter.francofernando.com/p/mastering-recursion-the-foundations
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: The Building Blocks of Concurrent Programming
+  url: https://newsletter.francofernando.com/p/the-building-blocks-of-concurrent
+  year: 2026
+  topics:
+  - Low-Level
+  code: concurrency-building-blocks
+- title: 'Getting Started with OpenCV: A Practical Introduction'
+  url: https://newsletter.francofernando.com/p/getting-started-with-opencv-a-practical
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+  code: opencv-images-videos-gui
+- title: How to Navigate Performance Reviews Like a Pro
+  url: https://newsletter.francofernando.com/p/how-to-navigate-performance-reviews
+  year: 2026
+  topics:
+  - Software Engineering
+- title: 'Authentication Fundamentals: Part II'
+  url: https://newsletter.francofernando.com/p/authentication-fundamentals-part-ac6
+  year: 2026
+  topics:
+  - System Design
+- title: A Practical Guide to Types of Machine Learning
+  url: https://newsletter.francofernando.com/p/a-practical-guide-to-types-of-machine
+  year: 2026
+  topics:
+  - Machine Learning & Computer Vision
+- title: 'Authentication Fundamentals: Part I'
+  url: https://newsletter.francofernando.com/p/authentication-fundamentals-part
+  year: 2026
+  topics:
+  - System Design
+- title: Software Design Principles That Matter
+  url: https://newsletter.francofernando.com/p/software-design-principles-that-matter
+  year: 2026
+  topics:
+  - Software Engineering
+- title: 'Treaps: A Hybrid Data Structure'
+  url: https://newsletter.francofernando.com/p/treaps-a-hybrid-data-structure
+  year: 2026
+  topics:
+  - Algorithms & Data Structures
+- title: 'From Stateful to Stateless: Building Web Apps That Scale'
+  url: https://newsletter.francofernando.com/p/from-stateful-to-stateless-building
+  year: 2026
+  topics:
+  - System Design
+- title: 'End of year wrap: 2025'
+  url: https://newsletter.francofernando.com/p/end-of-year-wrap-2025
+  year: 2025
+  topics:
+  - More
+- title: Control Planes and Data Planes
+  url: https://newsletter.francofernando.com/p/control-planes-and-data-planes
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: 'Fundamental Graph Algorithms Part III: DFS On Directed Graphs'
+  url: https://newsletter.francofernando.com/p/fundamental-graphs-algorithms-part
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: 'Fundamental Graph Algorithms - Part II: DFS'
+  url: https://newsletter.francofernando.com/p/fundamental-graph-algorithms-part-893
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: 'Fundamental Graph Algorithms - Part I: BFS'
+  url: https://newsletter.francofernando.com/p/fundamental-graph-algorithms-part
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: How the Operating System Manages the Hardware
+  url: https://newsletter.francofernando.com/p/how-the-operating-system-manage-the
+  year: 2025
+  topics:
+  - Low-Level
+- title: Scaling the data storage layer in system design
+  url: https://newsletter.francofernando.com/p/scaling-the-data-storage-layer-in
+  year: 2025
+  topics:
+  - System Design
+- title: How to Estimate the Duration of a Task
+  url: https://newsletter.francofernando.com/p/how-to-estimate-the-duration-of-a
+  year: 2025
+  topics:
+  - Software Engineering
+- title: Heap Use Cases Every Algorist Should Know
+  url: https://newsletter.francofernando.com/p/heap-use-cases-every-algorist-should
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: Caching in Distributed Systems - Part III
+  url: https://newsletter.francofernando.com/p/caching-in-distributed-systems-part-586
+  year: 2025
+  topics:
+  - System Design
+  - Distributed Systems
+- title: Caching in Distributed Systems - Part II
+  url: https://newsletter.francofernando.com/p/caching-in-distributed-systems-part-6ca
+  year: 2025
+  topics:
+  - System Design
+- title: Caching in Distributed Systems - Part I
+  url: https://newsletter.francofernando.com/p/caching-in-distributed-systems-part
+  year: 2025
+  topics:
+  - System Design
+- title: Chain Replication
+  url: https://newsletter.francofernando.com/p/chain-replication
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: Concurrency and Parallelism
+  url: https://newsletter.francofernando.com/p/concurrency-and-parallelism
+  year: 2025
+  topics:
+  - Low-Level
+- title: What to do before refactoring
+  url: https://newsletter.francofernando.com/p/what-to-do-before-refactoring
+  year: 2025
+  topics:
+  - Software Engineering
+- title: From a Single Server to Global Scale
+  url: https://newsletter.francofernando.com/p/from-a-single-server-to-global-scale
+  year: 2025
+  topics:
+  - System Design
+- title: Linear Interpolation
+  url: https://newsletter.francofernando.com/p/linear-interpolation
+  year: 2025
+  topics:
+  - Machine Learning & Computer Vision
+  code: interpolation
+- title: The DRY Principle
+  url: https://newsletter.francofernando.com/p/the-dry-principle
+  year: 2025
+  topics:
+  - Software Engineering
+- title: A Critical Guide to Content Delivery Networks
+  url: https://newsletter.francofernando.com/p/a-critical-guide-to-content-delivery
+  year: 2025
+  topics:
+  - System Design
+- title: 'Requirements: the foundation of good system design.'
+  url: https://newsletter.francofernando.com/p/requirements-the-foundation-of-good
+  year: 2025
+  topics:
+  - System Design
+- title: How to Become a Confident Software Engineer
+  url: https://newsletter.francofernando.com/p/how-to-become-a-confident-software
+  year: 2025
+  topics:
+  - Software Engineering
+- title: Designing a URL Shortener
+  url: https://newsletter.francofernando.com/p/designing-a-url-shortener
+  year: 2025
+  topics:
+  - System Design
+- title: What to Look for in Code Reviews
+  url: https://newsletter.francofernando.com/p/what-to-look-for-in-code-reviews
+  year: 2025
+  topics:
+  - Software Engineering
+- title: 'Mastering Linked Lists: A Complete Guide'
+  url: https://newsletter.francofernando.com/p/mastering-linked-lists-a-complete
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: How to Tackle Coding Interviews
+  url: https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews
+  year: 2025
+  topics:
+  - Software Engineering
+- title: The Challenges of Distributed Systems
+  url: https://newsletter.francofernando.com/p/the-challenges-of-distributed-systems
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: APIs Versioning
+  url: https://newsletter.francofernando.com/p/apis-versioning
+  year: 2025
+  topics:
+  - System Design
+- title: Understanding Object Storage in Modern Cloud Systems
+  url: https://newsletter.francofernando.com/p/understanding-object-storage-in-modern
+  year: 2025
+  topics:
+  - System Design
+- title: Range Queries
+  url: https://newsletter.francofernando.com/p/range-queries
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: Managing Up
+  url: https://newsletter.francofernando.com/p/managing-up
+  year: 2025
+  topics:
+  - Software Engineering
+- title: Mastering the Two-Pointers Technique
+  url: https://newsletter.francofernando.com/p/mastering-the-two-pointers-technique
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: Chaos Engineering
+  url: https://newsletter.francofernando.com/p/chaos-engineering
+  year: 2025
+  topics:
+  - System Design
+- title: 'Understanding TLS: how data stays secure over the internet'
+  url: https://newsletter.francofernando.com/p/understanding-tls-how-data-stays
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: The RAFT Consensus Algorithm
+  url: https://newsletter.francofernando.com/p/the-raft-consensus-algorithm
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: Hashing in Coding Interviews
+  url: https://newsletter.francofernando.com/p/hashing-in-coding-interviews
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: Database categories
+  url: https://newsletter.francofernando.com/p/database-categories
+  year: 2025
+  topics:
+  - System Design
+- title: Communication
+  url: https://newsletter.francofernando.com/p/communication
+  year: 2025
+  topics:
+  - Software Engineering
+- title: Backtracking
+  url: https://newsletter.francofernando.com/p/backtracking
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: How (not to) fail a system design interview
+  url: https://newsletter.francofernando.com/p/how-not-to-fail-a-system-design-interview
+  year: 2025
+  topics:
+  - System Design
+- title: Back of the envelope
+  url: https://newsletter.francofernando.com/p/back-of-the-envelope
+  year: 2025
+  topics:
+  - System Design
+- title: Data Structures for Image Processing
+  url: https://newsletter.francofernando.com/p/data-structures-for-image-processing
+  year: 2025
+  topics:
+  - Machine Learning & Computer Vision
+- title: The Definitive Guide to Load Balancers
+  url: https://newsletter.francofernando.com/p/the-definitive-guide-to-load-balancers
+  year: 2025
+  topics:
+  - System Design
+- title: The Shopify Checkout Architecture
+  url: https://newsletter.francofernando.com/p/the-shopify-checkout-architecture
+  year: 2025
+  topics:
+  - System Design
+- title: 'The 12 Factor App: an updated guide'
+  url: https://newsletter.francofernando.com/p/the-12-factor-app-an-updated-guide
+  year: 2025
+  topics:
+  - System Design
+- title: How (not to) fail a coding interview
+  url: https://newsletter.francofernando.com/p/how-not-to-fail-a-coding-interview
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: 'The Ins and Outs of DNS: A Technical Guide'
+  url: https://newsletter.francofernando.com/p/the-ins-and-outs-of-dns-a-technical
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: 'Database sharding case study: PostgreSQL'
+  url: https://newsletter.francofernando.com/p/database-sharding-case-study-postgresql
+  year: 2025
+  topics:
+  - System Design
+- title: Idempotency
+  url: https://newsletter.francofernando.com/p/idempotency
+  year: 2025
+  topics:
+  - Distributed Systems
+- title: Space Complexity
+  url: https://newsletter.francofernando.com/p/space-complexity
+  year: 2025
+  topics:
+  - Algorithms & Data Structures
+- title: A Comprehensive Guide to Database Sharding
+  url: https://newsletter.francofernando.com/p/a-comprehensive-guide-to-database
+  year: 2025
+  topics:
+  - System Design
+  - Distributed Systems
+- title: Advent Of Code
+  url: https://newsletter.francofernando.com/p/advent-of-code
+  year: 2025
+  topics:
+  - Software Engineering
+- title: Year-end wrap
+  url: https://newsletter.francofernando.com/p/year-end-wrap
+  year: 2024
+  topics:
+  - More
+- title: TCP
+  url: https://newsletter.francofernando.com/p/tcp
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: API architectural styles
+  url: https://newsletter.francofernando.com/p/apis-architectural-styles
+  year: 2024
+  topics:
+  - System Design
+- title: Writing as software engineer
+  url: https://newsletter.francofernando.com/p/writing-as-as-software-engineer
+  year: 2024
+  topics:
+  - Software Engineering
+- title: Synchronization - Part 2
+  url: https://newsletter.francofernando.com/p/synchronization-part-2
+  year: 2024
+  topics:
+  - Low-Level
+- title: Work-Life Balance
+  url: https://newsletter.francofernando.com/p/work-life-balance
+  year: 2024
+  topics:
+  - Software Engineering
+- title: The fallacies of distributed systems
+  url: https://newsletter.francofernando.com/p/the-fallacies-of-distributed-systems
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Synchronization
+  url: https://newsletter.francofernando.com/p/synchronization
+  year: 2024
+  topics:
+  - Low-Level
+- title: Refactoring
+  url: https://newsletter.francofernando.com/p/refactoring
+  year: 2024
+  topics:
+  - Software Engineering
+- title: Arrays
+  url: https://newsletter.francofernando.com/p/arrays
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: Messaging - Part 3
+  url: https://newsletter.francofernando.com/p/messaging-part-3
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Protobuf
+  url: https://newsletter.francofernando.com/p/protobuf
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Coding practice
+  url: https://newsletter.francofernando.com/p/coding-practice
+  year: 2024
+  topics:
+  - Software Engineering
+- title: Messaging - Part 2
+  url: https://newsletter.francofernando.com/p/messaging-part-2
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Solving Problems by Sorting
+  url: https://newsletter.francofernando.com/p/solving-problems-by-sorting
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: How to design a system for scale
+  url: https://newsletter.francofernando.com/p/how-to-design-a-system-for-scale
+  year: 2024
+  topics:
+  - System Design
+- title: Messaging in Distributed Systems - Part I
+  url: https://newsletter.francofernando.com/p/messaging-part-i
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Vertical scaling
+  url: https://newsletter.francofernando.com/p/vertical-scaling
+  year: 2024
+  topics:
+  - System Design
+- title: Observability
+  url: https://newsletter.francofernando.com/p/observability
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Consistency
+  url: https://newsletter.francofernando.com/p/consistency
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: How Quora scaled MySQL
+  url: https://newsletter.francofernando.com/p/how-quora-scaled-mysql
+  year: 2024
+  topics:
+  - System Design
+- title: Sidecar
+  url: https://newsletter.francofernando.com/p/sidecar
+  year: 2024
+  topics:
+  - System Design
+- title: API Gateways
+  url: https://newsletter.francofernando.com/p/api-gateways
+  year: 2024
+  topics:
+  - System Design
+- title: Seniority
+  url: https://newsletter.francofernando.com/p/seniority
+  year: 2024
+  topics:
+  - Software Engineering
+- title: Graphs representation
+  url: https://newsletter.francofernando.com/p/graphs-representation
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: Google File System
+  url: https://newsletter.francofernando.com/p/google-file-system
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Latency and Throughput
+  url: https://newsletter.francofernando.com/p/latency-and-throughput
+  year: 2024
+  topics:
+  - System Design
+- title: Serving Video
+  url: https://newsletter.francofernando.com/p/serving-video
+  year: 2024
+  topics:
+  - System Design
+- title: Indexing - Part 2
+  url: https://newsletter.francofernando.com/p/indexing-part-2
+  year: 2024
+  topics:
+  - System Design
+- title: Tries
+  url: https://newsletter.francofernando.com/p/tries
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: Code Reviews
+  url: https://newsletter.francofernando.com/p/code-reviews
+  year: 2024
+  topics:
+  - Software Engineering
+- title: Indexing
+  url: https://newsletter.francofernando.com/p/indexing
+  year: 2024
+  topics:
+  - System Design
+- title: Server-Sent Event
+  url: https://newsletter.francofernando.com/p/server-sent-event
+  year: 2024
+  topics:
+  - System Design
+  code: server-sent-events
+- title: Isolation
+  url: https://newsletter.francofernando.com/p/isolation
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: HTTP
+  url: https://newsletter.francofernando.com/p/http
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Software Phylosophy
+  url: https://newsletter.francofernando.com/p/software-phylosophy
+  year: 2024
+  topics:
+  - Software Engineering
+- title: Storage types
+  url: https://newsletter.francofernando.com/p/storage-types
+  year: 2024
+  topics:
+  - Low-Level
+- title: Availability
+  url: https://newsletter.francofernando.com/p/availability
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Linear Time Sorting
+  url: https://newsletter.francofernando.com/p/linear-time-sorting
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: Rendezvous
+  url: https://newsletter.francofernando.com/p/rendezvous
+  year: 2024
+  topics:
+  - System Design
+- title: Priority Queue
+  url: https://newsletter.francofernando.com/p/priority-queue
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: Kubernetes
+  url: https://newsletter.francofernando.com/p/kubernetes
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Pagination
+  url: https://newsletter.francofernando.com/p/pagination
+  year: 2024
+  topics:
+  - System Design
+- title: Multiplying Matrix
+  url: https://newsletter.francofernando.com/p/multiplying-matrix
+  year: 2024
+  topics:
+  - Algorithms & Data Structures
+- title: Geospatial indexes
+  url: https://newsletter.francofernando.com/p/geospatial-indexes
+  year: 2024
+  topics:
+  - System Design
+- title: Containerization
+  url: https://newsletter.francofernando.com/p/containerization
+  year: 2024
+  topics:
+  - Low-Level
+- title: Shopify APIs
+  url: https://newsletter.francofernando.com/p/shopify-apis
+  year: 2024
+  topics:
+  - System Design
+- title: Hooks
+  url: https://newsletter.francofernando.com/p/hooks
+  year: 2024
+  topics:
+  - Software Engineering
+  - System Design
+- title: Slack Real-Time Messaging
+  url: https://newsletter.francofernando.com/p/slack-real-time-messaging
+  year: 2024
+  topics:
+  - System Design
+- title: Redis
+  url: https://newsletter.francofernando.com/p/redis
+  year: 2024
+  topics:
+  - System Design
+- title: Durability
+  url: https://newsletter.francofernando.com/p/durability
+  year: 2024
+  topics:
+  - Distributed Systems
+- title: Year-end reflection
+  url: https://newsletter.francofernando.com/p/year-end-reflection
+  year: 2023
+  topics:
+  - More
+- title: Time complexity
+  url: https://newsletter.francofernando.com/p/time-complexity
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: A gentle introduction to database replication.
+  url: https://newsletter.francofernando.com/p/replication
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: CAP
+  url: https://newsletter.francofernando.com/p/cap
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Herthbeats
+  url: https://newsletter.francofernando.com/p/herthbeats
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Cassandra
+  url: https://newsletter.francofernando.com/p/deep-dive-1-cassandra
+  year: 2023
+  topics:
+  - System Design
+- title: Hanoi
+  url: https://newsletter.francofernando.com/p/hanoi
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Message Delivery
+  url: https://newsletter.francofernando.com/p/message-delivery
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Happy Birthday
+  url: https://newsletter.francofernando.com/p/happy-birthday
+  year: 2023
+  topics:
+  - More
+- title: Delivering Mail
+  url: https://newsletter.francofernando.com/p/delivering-mail
+  year: 2023
+  topics:
+  - System Design
+- title: Key and Values
+  url: https://newsletter.francofernando.com/p/key-and-values
+  year: 2023
+  topics:
+  - System Design
+- title: Partitions
+  url: https://newsletter.francofernando.com/p/partitions
+  year: 2023
+  topics:
+  - System Design
+- title: Scaling
+  url: https://newsletter.francofernando.com/p/scaling
+  year: 2023
+  topics:
+  - System Design
+- title: Virtualization
+  url: https://newsletter.francofernando.com/p/virtualization
+  year: 2023
+  topics:
+  - Low-Level
+- title: Salt and Pepper
+  url: https://newsletter.francofernando.com/p/salt-and-pepper
+  year: 2023
+  topics:
+  - System Design
+- title: Leader election
+  url: https://newsletter.francofernando.com/p/leader-election
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Unique identification
+  url: https://newsletter.francofernando.com/p/unique-identification
+  year: 2023
+  topics:
+  - System Design
+- title: Synchronizing machines
+  url: https://newsletter.francofernando.com/p/synchronizing-machines
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Binary Search Trees
+  url: https://newsletter.francofernando.com/p/binary-search-trees
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Remote procedures
+  url: https://newsletter.francofernando.com/p/remote-procedures
+  year: 2023
+  topics:
+  - System Design
+  code: grpc-samples
+- title: Statistics
+  url: https://newsletter.francofernando.com/p/statistics
+  year: 2023
+  topics:
+  - Software Engineering
+- title: Delivering content
+  url: https://newsletter.francofernando.com/p/delivering-content
+  year: 2023
+  topics:
+  - System Design
+- title: Dynamo
+  url: https://newsletter.francofernando.com/p/dynamo
+  year: 2023
+  topics:
+  - System Design
+- title: Networking Protocols
+  url: https://newsletter.francofernando.com/p/networking-protocols
+  year: 2023
+  topics:
+  - Low-Level
+- title: Retaining knowledge
+  url: https://newsletter.francofernando.com/p/retaining-knowledge
+  year: 2023
+  topics:
+  - Software Engineering
+- title: Cake without eggs
+  url: https://newsletter.francofernando.com/p/cake-without-eggs
+  year: 2023
+  topics:
+  - Software Engineering
+- title: Interview strategist
+  url: https://newsletter.francofernando.com/p/interview-strategist
+  year: 2023
+  topics:
+  - Software Engineering
+- title: Finding roots
+  url: https://newsletter.francofernando.com/p/finding-roots
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Distributed leaders
+  url: https://newsletter.francofernando.com/p/distributed-leaders
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Computing power
+  url: https://newsletter.francofernando.com/p/computing-power
+  year: 2023
+  topics:
+  - Low-Level
+- title: Classes of complexity
+  url: https://newsletter.francofernando.com/p/classes-of-complexity
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Recursive decomposition
+  url: https://newsletter.francofernando.com/p/recursive-decomposition
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Circuit breakers
+  url: https://newsletter.francofernando.com/p/circuit-breakers
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Push and Pull
+  url: https://newsletter.francofernando.com/p/push-and-pull
+  year: 2023
+  topics:
+  - System Design
+- title: Traverse Trees
+  url: https://newsletter.francofernando.com/p/traverse-trees
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Spark
+  url: https://newsletter.francofernando.com/p/spark
+  year: 2023
+  topics:
+  - System Design
+- title: Domain names
+  url: https://newsletter.francofernando.com/p/domain-names
+  year: 2023
+  topics:
+  - System Design
+- title: Map And Reduce
+  url: https://newsletter.francofernando.com/p/map-and-reduce
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Clocks
+  url: https://newsletter.francofernando.com/p/clocks
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Hashing
+  url: https://newsletter.francofernando.com/p/hashing
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Impact and optionality
+  url: https://newsletter.francofernando.com/p/impact-and-optionality
+  year: 2023
+  topics:
+  - Software Engineering
+- title: Proxies
+  url: https://newsletter.francofernando.com/p/proxies
+  year: 2023
+  topics:
+  - System Design
+- title: Replication Lag
+  url: https://newsletter.francofernando.com/p/replication-lag
+  year: 2023
+  topics:
+  - Distributed Systems
+- title: Design patterns
+  url: https://newsletter.francofernando.com/p/design-patterns
+  year: 2023
+  topics:
+  - Software Engineering
+- title: Logarithmic power
+  url: https://newsletter.francofernando.com/p/logarithmic-power
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Fast and Slow
+  url: https://newsletter.francofernando.com/p/fast-and-slow
+  year: 2023
+  topics:
+  - Algorithms & Data Structures
+- title: Jumping into the new year
+  url: https://newsletter.francofernando.com/p/jumping-into-the-new-year
+  year: 2023
+  topics:
+  - More
+- title: Defining Goals
+  url: https://newsletter.francofernando.com/p/defining-goals
+  year: 2022
+  topics:
+  - Software Engineering
+- title: Reliable Communication
+  url: https://newsletter.francofernando.com/p/reliable-communication
+  year: 2022
+  topics:
+  - Distributed Systems
+- title: Consistent hashing
+  url: https://newsletter.francofernando.com/p/consistent-hashing
+  year: 2022
+  topics:
+  - System Design
+- title: Sorting by Counting
+  url: https://newsletter.francofernando.com/p/sorting-by-counting
+  year: 2022
+  topics:
+  - Algorithms & Data Structures
+- title: Caching
+  url: https://newsletter.francofernando.com/p/caching
+  year: 2022
+  topics:
+  - System Design
+- title: Sliding Window
+  url: https://newsletter.francofernando.com/p/sliding-window
+  year: 2022
+  topics:
+  - Algorithms & Data Structures
+- title: Hello from the Polymathic Engineer
+  url: https://newsletter.francofernando.com/p/hello-from-the-polymathic-engineer
+  year: 2022
+  topics:
+  - More
+- title: Coming soon
+  url: https://newsletter.francofernando.com/p/coming-soon
+  year: 2022
+  topics:
+  - More
