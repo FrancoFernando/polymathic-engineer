@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+code/grpc-samples/calculator-microservice/calculator/calculator_pb2.py
+code/grpc-samples/calculator-microservice/calculator/calculator_pb2_grpc.py
+code/latency-measurement/*.png
+code/latency-measurement/ping-*.csv
+!code/latency-measurement/ping-sample.csv
+code/opencv-images-videos-gui/*.png
+code/opencv-images-videos-gui/*.mp4
